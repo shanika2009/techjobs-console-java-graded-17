@@ -127,13 +127,13 @@ public class TechJobs {
                 System.out.println(job+ ": " + jobSearch.get(job));
             }
             System.out.println("*****");
-
+        }
             if (someJobs.isEmpty()) {
                 System.out.print("No Results");
         }
         }
 
-    }
+
 
 
 
